@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">WaifuRecycleView</string>
+
+    <string name="my_name">Revaldi Rahmatmulya</string>
+    <string name="my_email">Revaldiaye@gmail.com</string>
+
+    <string name="waifu_name">Nama Waifu</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="no_image">No Image</string>
+    <string name="about_example">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusantium amet animi commodi debitis deserunt earum eos, esse ex expedita fuga fugiat hic inventore ipsum iusto libero mollitia natus neque nostrum nulla quae quia ratione recusandae rerum ut velit voluptatem voluptatibus. Aliquid debitis delectus dolor esse est illum, ipsam itaque, natus nulla perspiciatis quo reiciendis rem. At culpa facere illum libero minima nulla optio? Accusamus atque deserunt incidunt nihil, quae quo ratione reprehenderit! Asperiores at aut beatae culpa, dolore excepturi fuga, hic, iste libero molestias nihil non porro praesentium quae quas quibusdam repudiandae saepe soluta ut voluptates! Quidem, tempore, temporibus.</string>
+    <string name="profile">My profile</string>
+
+    <string-array name="data_name">
+        <item>Anya Forger</item>
+        <item>Raiden Ei</item>
+        <item>Yae Miko</item>
+        <item>Anila</item>
+        <item>Kato Megumi</item>
+        <item>Makima</item>
+        <item>Albedo</item>
+        <item>Momo Velia Deviluke</item>
+        <item>Konno Yuuki</item>
+        <item>Echidna</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Istri Pertama</item>
+        <item>Istri Kedua</item>
+        <item>Istri Ketiga</item>
+        <item>Istri Keempat</item>
+        <item>Istri Kelima</item>
+        <item>Istri Keenam</item>
+        <item>Istri Ketujuh</item>
+        <item>Istri Kedelapan</item>
+        <item>Istri Kesembilan</item>
+        <item>Istri Kesepuluh</item>
+    </string-array>
+
+    <string-array name="data_about">
+<!--        Anya Forger-->
+        <item>Anya Forger adalah karakter dalam anime dan manga berjudul "Spy x Family". Dia adalah seorang anak kecil yang ditemukan oleh protagonis utama, seorang agen rahasia bernama Twilight. Anya merupakan anak yatim piatu yang membutuhkan bantuan Twilight untuk melindunginya dari kehidupan yang tidak aman di kota tersebut.
+
+            Meskipun masih kecil, Anya memiliki kemampuan yang luar biasa dalam membuat dan memalsukan dokumen. Hal ini membuat Twilight tertarik dan memutuskan untuk menjadikan Anya sebagai anak angkatnya dan melatihnya menjadi agen rahasia seperti dirinya.
+
+            Anya merupakan sosok yang sangat ceria dan lucu. Dia sangat menggemaskan dan menjadi favorit para penggemar "Spy x Family". Namun, di balik itu semua, Anya memiliki masa lalu yang cukup kelam dan menyedihkan. Dia tidak memiliki keluarga dan merasa kesepian sebelum bertemu dengan Twilight.
+
+            Secara keseluruhan, Anya Forger adalah karakter yang sangat menarik dan memiliki banyak potensi untuk berkembang. Dia memiliki kemampuan yang luar biasa dan memiliki sisi lembut yang membuatnya menjadi karakter yang sangat menggemaskan.</item>
+<!--        Raiden Ei-->
+        <item>Raiden Shogun atau disebut juga sebagai Baal adalah karakter dalam game Genshin Impact yang menjadi salah satu karakter penting dalam cerita utama game tersebut. Raiden Shogun merupakan sosok pemimpin tertinggi di Inazuma, sebuah wilayah di dunia Genshin Impact yang terinspirasi dari Jepang.
+
+            Sebagai pemimpin tertinggi di Inazuma, Raiden Shogun dikenal sebagai sosok yang sangat kuat dan tegas. Dia juga sangat dihormati oleh penduduk Inazuma karena kemampuannya dalam menjaga keamanan dan kesejahteraan wilayah tersebut. Namun, di balik itu semua, Raiden Shogun ternyata memiliki masa lalu yang cukup kelam.
+
+            Dalam cerita utama game Genshin Impact, kita dapat melihat bahwa Raiden Shogun memiliki ambisi untuk menciptakan dunia yang sempurna dan bebas dari kehancuran. Namun, untuk mencapai tujuannya, dia melakukan tindakan-tindakan yang terkadang tidak etis dan dapat merugikan orang lain.
+
+            Meskipun memiliki sifat yang sangat kuat dan tegas, Raiden Shogun ternyata juga memiliki sisi lembut dan manusiawi. Dia peduli dengan orang-orang di sekitarnya dan ingin menciptakan kebahagiaan bagi mereka. Namun, terkadang tujuannya yang besar membuatnya kehilangan pandangan terhadap kesejahteraan individu.
+
+            Dalam pertarungan, Raiden Shogun merupakan karakter yang sangat kuat dan memiliki kemampuan unik dalam menggunakan elemen listrik. Dia juga dapat mengeluarkan serangan-serangan yang sangat cepat dan mematikan, membuatnya menjadi salah satu karakter yang cukup populer di antara para pemain Genshin Impact.
+
+            Secara keseluruhan, Raiden Shogun adalah karakter yang sangat menarik dan memiliki banyak sisi yang dapat dieksplorasi. Dia merupakan sosok yang kuat dan tegas, namun juga memiliki sisi lembut dan manusiawi. Karakter ini sangat cocok untuk para pemain yang suka dengan karakter yang kompleks dan memiliki banyak nuansa dalam ceritanya.</item>
+<!--        Yae Miko-->
+        <item>Yae Miko adalah karakter dalam game Genshin Impact yang berasal dari wilayah Inazuma. Dia merupakan seorang pendeta yang sangat dihormati di Inazuma dan memainkan peran penting dalam cerita utama game tersebut.
+
+            Sebagai seorang pendeta, Yae Miko dikenal sebagai sosok yang sangat bijaksana dan memiliki pengetahuan yang luas tentang sejarah dan agama di Inazuma. Dia juga memiliki kemampuan untuk berkomunikasi dengan roh-roh dan arwah yang ada di sekitarnya.
+
+            Selain itu, Yae Miko juga memiliki kemampuan bertarung yang cukup baik. Dia dapat menggunakan pedang dan elemen listrik untuk melawan musuh-musuhnya. Kemampuan ini membuatnya menjadi salah satu karakter yang cukup populer di antara para pemain Genshin Impact.
+
+            Namun, di balik semua kemampuan dan kebijaksanaannya, Yae Miko juga memiliki masa lalu yang kelam. Dalam cerita utama game Genshin Impact, kita dapat melihat bahwa dia pernah mengalami kesedihan dan kehilangan yang besar. Hal ini membuatnya menjadi sosok yang lebih kompleks dan menarik.
+
+            Meskipun memiliki masa lalu yang kelam, Yae Miko tidak pernah menyerah dan selalu berusaha untuk menciptakan dunia yang lebih baik. Dia sangat peduli dengan orang-orang di sekitarnya dan selalu berusaha untuk membantu mereka.
+
+            Secara keseluruhan, Yae Miko adalah karakter yang sangat menarik dan kompleks. Dia memiliki kemampuan yang luar biasa dan kebijaksanaan yang tinggi, namun juga memiliki sisi lembut dan manusiawi yang membuatnya menjadi sosok yang sangat menginspirasi. Karakter ini cocok untuk para pemain yang suka dengan karakter yang memiliki banyak nuansa dan cerita yang dalam.</item>
+<!--        Anila-->
+        <item>Anila adalah salah satu dari Dua Belas Jenderal Ilahi yang melindungi wilayah selatan-barat daya dalam Granblue Fantasy. Dia memiliki penampilan yang menyerupai seekor domba yang lembut dan memiliki sifat yang tidak suka konflik, serta mendoakan perdamaian dunia.
+
+            Meskipun telah mengalami isolasi selama waktu yang lama, Anila sekarang mencari petualangan baru dan berkelana ke tempat-tempat baru yang dipandu oleh bintang-bintang. Dia adalah karakter yang kuat dan dihormati dalam game, serta memiliki kepribadian yang lembut dan peduli terhadap dunia sekitarnya.
+
+            Sebagai seorang pendeta, Anila juga memiliki kemampuan untuk memanggil Kamuy, makhluk legendaris yang mampu membantunya dalam pertempuran. Meskipun tidak menyukai konflik, Anila mampu melindungi wilayahnya dengan kemampuan dan kekuatannya yang luar biasa.</item>
+<!--        Kato Megumi-->
+        <item>Kato Megumi adalah salah satu karakter dari seri light novel, manga, dan anime berjudul "Saenai Heroine no Sodatekata" atau yang juga dikenal dengan judul "Saekano: How to Raise a Boring Girlfriend". Kato Megumi adalah karakter utama perempuan dalam seri ini, dan menjadi salah satu karakter yang paling dicintai oleh para penggemar.
+
+            Kato Megumi digambarkan sebagai seorang siswa SMA yang tenang dan introvert. Meskipun begitu, ia memiliki kecerdasan yang luar biasa dan merupakan salah satu siswa teratas di sekolahnya. Karakteristik yang paling menonjol dari Kato adalah kepribadiannya yang tenang dan santai. Dia tidak pernah terlalu bersemangat atau emosional, bahkan saat dihadapkan pada situasi yang sulit sekalipun. Namun, kelebihan ini justru membuatnya menjadi karakter yang sangat menarik dan membuatnya menjadi pusat perhatian dalam seri.
+
+            Meskipun terkadang terlihat dingin atau jauh, Kato sebenarnya sangat peduli dengan orang lain dan sangat memperhatikan perasaan orang lain. Hal ini terlihat dari sikapnya yang selalu siap mendengarkan dan membantu teman-temannya. Meskipun ia tidak terlalu ekspresif dalam mengekspresikan perasaannya, Kato sangat bisa diandalkan dan selalu siap membantu ketika diperlukan.
+
+            Kato Megumi adalah karakter yang sangat populer di antara para penggemar anime dan manga. Karakternya yang tenang dan bijaksana menjadi daya tarik tersendiri, terutama di kalangan penonton yang mencari karakter yang berbeda dari kebanyakan karakter dalam anime. Meskipun ia mungkin tidak memiliki kekuatan fisik atau keahlian khusus, kepribadiannya yang bijaksana dan sederhana membuatnya menjadi karakter yang sangat disukai.
+
+            Secara keseluruhan, Kato Megumi adalah karakter yang menarik dalam seri "Saekano: How to Raise a Boring Girlfriend". Kepribadiannya yang tenang dan bijaksana membuatnya menjadi karakter yang berbeda dan menarik, sementara sikapnya yang peduli terhadap orang lain membuatnya menjadi karakter yang mudah disukai. Karakter ini menjadi bukti bahwa karakter anime tidak selalu harus menjadi pahlawan dengan kekuatan super, tetapi bisa menjadi karakter yang menarik dengan kepribadian yang berbeda.</item>
+
+        <!--Makima-->
+        <item>
+            Makima adalah karakter dalam manga Jepang Chainsaw Man. Dia adalah seorang wanita muda yang merupakan bagian dari Pasukan Khusus Anti-Setan Jepang. Makima memiliki penampilan yang menarik dengan rambut hitam panjang, mata berwarna biru, dan tubuh yang seksi.
+            Meskipun terlihat cantik dan ramah, Makima sebenarnya adalah karakter yang misterius dan sulit ditebak. Dia sangat ahli dalam memanipulasi orang dan memiliki kemampuan untuk membaca pikiran. Dia juga dianggap sebagai salah satu karakter paling kuat dalam Chainsaw Man dengan kemampuan untuk memanggil dan mengendalikan para Setan.
+            Selain itu, Makima juga memiliki keinginan kuat untuk mempertahankan kedaulatan negaranya dan melakukan segala cara untuk mencapai tujuannya. Dia sering melakukan aksi kejam dan manipulatif demi mencapai tujuannya, sehingga membuatnya menjadi karakter yang kontroversial di antara para penggemar Chainsaw Man. Meskipun demikian, karakternya yang kuat dan menarik membuatnya menjadi salah satu karakter paling populer dalam manga
+        </item>
+        <!--Albedo-->
+        <item>
+            Albedo adalah salah satu karakter dalam anime Overlord yang memiliki penampilan yang sangat menarik. Dia adalah karakter utama dalam game virtual reality Yggdrasil, yang kemudian menjadi kenyataan di dalam dunia Overlord. Albedo memiliki rambut putih, kulit pucat, dan mata merah yang terlihat sangat mencolok.
+            Selain penampilannya yang menarik, Albedo juga memiliki kepribadian yang kuat dan sangat setia pada sang pembuat game, Ainz Ooal Gown. Dia adalah kepala dari pasukan pengawal Ainz dan memiliki kemampuan yang luar biasa dalam pertempuran. Albedo juga sangat cerdas dan pandai berbicara, yang membuatnya menjadi karakter yang sangat penting dalam plot cerita anime Overlord.
+            Meskipun begitu, Albedo sering menunjukkan sifat posesif dan cemburu pada karakter wanita lain dalam cerita. Hal ini kadang-kadang menyebabkan situasi yang membingungkan dan lucu dalam anime. Namun, karakternya yang kuat dan menarik membuatnya menjadi salah satu karakter favorit bagi banyak penggemar Overlord.
+        </item>
+        <!--Momo-->
+        <item>
+            Momo Velia Deviluke adalah karakter utama dalam anime To Love-Ru. Dia adalah putri dari Planet Deviluke dan saudara kembar dari Nana, yang juga merupakan karakter utama dalam anime ini. Momo memiliki penampilan yang menarik dengan rambut merah jambu dan mata hijau. Dia juga memiliki sifat yang manis, lembut, dan perhatian terhadap orang lain.
+            Momo adalah karakter yang sangat pintar dan pandai dalam hal ilmu pengetahuan dan teknologi. Dia juga sangat mahir dalam seni bela diri dan memiliki kekuatan yang luar biasa. Selain itu, Momo juga memiliki kemampuan untuk membuat alat-alat ajaib dan menguasai teknologi canggih, yang sering digunakan untuk membantu para karakter dalam cerita. Kepintarannya membuatnya menjadi karakter yang sangat penting dalam plot cerita To Love-Ru.
+            Meskipun dia adalah seorang putri dan memiliki kemampuan luar biasa, Momo juga memiliki sifat yang lucu dan polos, yang membuatnya menjadi karakter yang disukai oleh banyak penggemar anime. Dia sering menunjukkan sifat yang ceria dan optimis, serta sering mengatakan hal-hal yang konyol. Namun, karakternya yang cerdas dan pandai membuatnya menjadi salah satu karakter wanita yang paling populer dalam anime To Love-Ru.
+        </item>
+<!--        Konno Yuuki-->
+        <item>
+            Konno Yuuki adalah karakter utama dalam seri anime dan novel ringan Sword Art Online. Dia adalah seorang gadis muda yang berbakat dalam pertarungan dan ahli dalam menggunakan pedang. Dia dikenal sebagai "Lightning Flash" karena kecepatan dan kelincahannya dalam bertarung. Konno Yuuki sangat terampil dan tangguh, dan sering dianggap sebagai salah satu karakter wanita paling kuat dalam Sword Art Online.
+            Meskipun keahliannya dalam pertarungan, Konno Yuuki memiliki penyakit yang mengancam hidupnya, yaitu AIDS. Namun, dia terus berjuang dan menjadi salah satu pemimpin dalam komunitas Sword Art Online. Dia juga memiliki kepribadian yang sangat optimis, ramah, dan ceria, yang membuatnya menjadi karakter yang disukai oleh banyak penggemar seri ini. Karakternya yang kuat dan pantang menyerah menjadikan Konno Yuuki sebagai salah satu karakter yang paling dihormati dan diidolakan dalam Sword Art Online.
+        </item>
+<!--        Echidna-->
+        <item>
+            Dia dikenal sebagai "The Witch of Greed" dan merupakan salah satu dari lima penyihir legendaris dalam cerita. Echidna memiliki pengetahuan yang sangat luas tentang dunia Re:Zero, termasuk kisah-kisah dan legenda yang mendasarinya. Dia juga memiliki kemampuan untuk memasuki mimpi orang lain dan berkomunikasi dengan mereka, yang membuatnya sangat kuat dan berbahaya.
+            Meskipun dia adalah seorang penyihir yang sangat kuat dan memiliki reputasi yang menakutkan, Echidna sering menunjukkan sifat yang santai dan ramah. Dia menyukai teh dan selalu menyediakan teh untuk tamu yang datang ke tempatnya. Meskipun demikian, Echidna juga dikenal sebagai karakter yang licik dan manipulatif, dan sering memainkan peran penting dalam plot cerita Re:Zero. Karakternya yang kompleks dan misterius membuatnya menjadi salah satu karakter favorit bagi banyak penggemar anime.
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/anya</item>
+        <item>@drawable/raiden</item>
+        <item>@drawable/miko</item>
+        <item>@drawable/anila</item>
+        <item>@drawable/megumi</item>
+        <item>@drawable/makima</item>
+        <item>@drawable/albedo</item>
+        <item>@drawable/momo</item>
+        <item>@drawable/yuuki</item>
+        <item>@drawable/echidna</item>
+
+    </integer-array>
+</resources>
